@@ -13,6 +13,7 @@ import net.minecraftforge.fml.network.FMLNetworkConstants;
 import org.apache.commons.lang3.tuple.Pair;
 
 @Mod("checkpoketype")
+@SuppressWarnings("unused")
 public class CommonSetup {
     public CommonSetup() {
         DistExecutor.unsafeRunWhenOn(Dist.DEDICATED_SERVER,
