@@ -62,6 +62,6 @@ Pokemon type/strongness/weakness checking feature as provided by EvenMorePixelmo
 [[dependencies.checkpoketype]]
     modId="pixelmon"
     mandatory=true
-    versionRange="[9.0.6]"
+    versionRange="[9.0.7]"
     ordering="NONE"
     side="BOTH"
